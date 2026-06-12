@@ -1,0 +1,224 @@
+[
+  {
+    "id": "ss001",
+    "name": "Heritage Pashmina Shawl",
+    "shortDescription": "Hand-woven pure Pashmina from the Kashmir valley, ultra-soft.",
+    "description": "Crafted by master artisans in the Kashmir valley, this pure Pashmina shawl embodies centuries of weaving heritage. Feather-light yet incredibly warm, it drapes elegantly over any outfit. The fine, hand-spun wool gives it an incomparable softness that gets better with every wear.",
+    "price": 8500,
+    "compareAtPrice": 11000,
+    "category": "Pashmina",
+    "images": ["assets/images/ss001-1.jpg", "assets/images/ss001-2.jpg"],
+    "inStock": true,
+    "featured": true,
+    "variants": [
+      { "label": "Color", "options": [
+        { "name": "Ivory", "priceAdjust": 0 },
+        { "name": "Charcoal", "priceAdjust": 0 },
+        { "name": "Dusty Rose", "priceAdjust": 500 }
+      ]}
+    ]
+  },
+  {
+    "id": "ss002",
+    "name": "Kashmiri Sozni Embroidered Shawl",
+    "shortDescription": "Intricate needle-work Sozni embroidery on fine wool base.",
+    "description": "This Kashmiri shawl features the renowned Sozni embroidery — a delicate needlework technique passed down through generations. Each motif is hand-stitched with silk thread on a fine wool base, making every piece subtly unique. A true heirloom piece.",
+    "price": 14500,
+    "compareAtPrice": 18000,
+    "category": "Kashmiri",
+    "images": ["assets/images/ss002-1.jpg", "assets/images/ss002-2.jpg"],
+    "inStock": true,
+    "featured": true,
+    "variants": [
+      { "label": "Base Color", "options": [
+        { "name": "Cream", "priceAdjust": 0 },
+        { "name": "Sage Green", "priceAdjust": 0 },
+        { "name": "Deep Burgundy", "priceAdjust": 1000 }
+      ]}
+    ]
+  },
+  {
+    "id": "ss003",
+    "name": "Merino Wool Wrap",
+    "shortDescription": "Oversized merino wool wrap, perfect for cold evenings.",
+    "description": "An oversized, luxuriously soft merino wool wrap that doubles as both a shawl and a light blanket. Its generous dimensions (200cm × 90cm) make it incredibly versatile — wear it as a classic shawl, a poncho, or drape it over your shoulders on cool evenings.",
+    "price": 5500,
+    "compareAtPrice": null,
+    "category": "Wool",
+    "images": ["assets/images/ss003-1.jpg"],
+    "inStock": true,
+    "featured": false,
+    "variants": [
+      { "label": "Color", "options": [
+        { "name": "Camel", "priceAdjust": 0 },
+        { "name": "Navy", "priceAdjust": 0 },
+        { "name": "Forest Green", "priceAdjust": 0 },
+        { "name": "Rust", "priceAdjust": 0 }
+      ]}
+    ]
+  },
+  {
+    "id": "ss004",
+    "name": "Silk Chiffon Evening Shawl",
+    "shortDescription": "Sheer silk chiffon with delicate border, ideal for formal wear.",
+    "description": "Elevate any formal ensemble with this gossamer-light silk chiffon shawl. Its sheer texture catches the light beautifully, while the finely woven border adds an understated elegance. Perfect for weddings, formal dinners, or any occasion that calls for refined grace.",
+    "price": 3800,
+    "compareAtPrice": 5000,
+    "category": "Chiffon",
+    "images": ["assets/images/ss004-1.jpg"],
+    "inStock": true,
+    "featured": true,
+    "variants": [
+      { "label": "Color", "options": [
+        { "name": "Blush Pink", "priceAdjust": 0 },
+        { "name": "Champagne Gold", "priceAdjust": 300 },
+        { "name": "Midnight Blue", "priceAdjust": 0 },
+        { "name": "Ivory White", "priceAdjust": 0 }
+      ]}
+    ]
+  },
+  {
+    "id": "ss005",
+    "name": "Phulkari Embroidered Dupatta",
+    "shortDescription": "Vibrant Phulkari folk embroidery on cotton silk blend.",
+    "description": "Rooted in centuries of Punjabi folk tradition, this Phulkari shawl features bold geometric floral embroidery worked entirely by hand. The cotton-silk blend base provides just the right weight, while the vivid thread colours make it a statement piece for any occasion.",
+    "price": 4200,
+    "compareAtPrice": null,
+    "category": "Embroidered",
+    "images": ["assets/images/ss005-1.jpg", "assets/images/ss005-2.jpg"],
+    "inStock": true,
+    "featured": false,
+    "variants": [
+      { "label": "Base Fabric", "options": [
+        { "name": "Red", "priceAdjust": 0 },
+        { "name": "Black", "priceAdjust": 0 },
+        { "name": "Royal Blue", "priceAdjust": 0 }
+      ]}
+    ]
+  },
+  {
+    "id": "ss006",
+    "name": "Winter Cashmere Blend Shawl",
+    "shortDescription": "Cashmere-wool blend, essential winter warmth with refined style.",
+    "description": "Designed for the cold months, this cashmere-wool blend shawl delivers exceptional warmth without the bulk. A brushed finish gives it a cosy, cloud-like texture, while its classic dimensions suit both casual and smart-casual dressing.",
+    "price": 6800,
+    "compareAtPrice": 8500,
+    "category": "Winter Collection",
+    "images": ["assets/images/ss006-1.jpg"],
+    "inStock": true,
+    "featured": true,
+    "variants": [
+      { "label": "Color", "options": [
+        { "name": "Oatmeal", "priceAdjust": 0 },
+        { "name": "Chocolate Brown", "priceAdjust": 0 },
+        { "name": "Slate Grey", "priceAdjust": 0 }
+      ]}
+    ]
+  },
+  {
+    "id": "ss007",
+    "name": "Kani Woven Shawl",
+    "shortDescription": "Traditional Kani loom weaving, rich paisley tapestry patterns.",
+    "description": "The ancient Kani weaving technique produces the most elaborate patterns imaginable — each shawl can take months to complete on specially constructed looms. Rich paisley and floral motifs are woven directly into the fabric using small wooden spools (kanis), creating a reversible tapestry that is as much artwork as clothing.",
+    "price": 22000,
+    "compareAtPrice": 27000,
+    "category": "Kashmiri",
+    "images": ["assets/images/ss007-1.jpg", "assets/images/ss007-2.jpg"],
+    "inStock": true,
+    "featured": true,
+    "variants": [
+      { "label": "Pattern", "options": [
+        { "name": "Classic Paisley", "priceAdjust": 0 },
+        { "name": "Floral Jaal", "priceAdjust": 2000 }
+      ]}
+    ]
+  },
+  {
+    "id": "ss008",
+    "name": "Printed Modal Scarf-Shawl",
+    "shortDescription": "Lightweight modal with artistic block-print, all-season versatility.",
+    "description": "A contemporary take on the traditional shawl — this modal fabric carries a hand-block-printed design inspired by Mughal tile work. Light enough to wear in spring, warm enough for air-conditioned summers. An everyday luxe piece that adds character to any look.",
+    "price": 2800,
+    "compareAtPrice": null,
+    "category": "Chiffon",
+    "images": ["assets/images/ss008-1.jpg"],
+    "inStock": true,
+    "featured": false,
+    "variants": []
+  },
+  {
+    "id": "ss009",
+    "name": "Heavy Woollen Loom Shawl",
+    "shortDescription": "Thick handloom wool, rugged warmth for harsh winters.",
+    "description": "Woven on traditional floor looms from coarse, heavy-spun sheep wool, this shawl is built for serious cold. Its dense weave locks in heat effectively, while the natural wool fibres regulate temperature. Raw, unrefined edges give it an authentically artisanal character.",
+    "price": 4500,
+    "compareAtPrice": null,
+    "category": "Winter Collection",
+    "images": ["assets/images/ss009-1.jpg"],
+    "inStock": false,
+    "featured": false,
+    "variants": [
+      { "label": "Weave", "options": [
+        { "name": "Natural Undyed", "priceAdjust": 0 },
+        { "name": "Indigo Dyed", "priceAdjust": 300 }
+      ]}
+    ]
+  },
+  {
+    "id": "ss010",
+    "name": "Organza Zari Border Shawl",
+    "shortDescription": "Sheer organza with golden Zari border, bridal and formal favourite.",
+    "description": "A perennial favourite for bridal trousseaux and formal events, this organza shawl is defined by its rich golden Zari border. The sheer body floats gracefully, while the metallic border catches every light in the room. Available in colours that complement the most popular bridal palettes.",
+    "price": 5200,
+    "compareAtPrice": 6500,
+    "category": "Embroidered",
+    "images": ["assets/images/ss010-1.jpg"],
+    "inStock": true,
+    "featured": false,
+    "variants": [
+      { "label": "Body Color", "options": [
+        { "name": "Ivory + Gold", "priceAdjust": 0 },
+        { "name": "Blush + Gold", "priceAdjust": 0 },
+        { "name": "Mint + Silver", "priceAdjust": 0 }
+      ]}
+    ]
+  },
+  {
+    "id": "ss011",
+    "name": "Fine Wool Jamawar Shawl",
+    "shortDescription": "Jamawar-inspired woven patterns on fine wool, timeless classic.",
+    "description": "Drawing from the royal Jamawar weaving tradition, this fine wool shawl features an all-over woven pattern that catches light and shadow beautifully. Neither too formal nor too casual, it is the shawl you reach for instinctively — to dress up jeans or complete a kurta.",
+    "price": 9200,
+    "compareAtPrice": 11500,
+    "category": "Wool",
+    "images": ["assets/images/ss011-1.jpg"],
+    "inStock": true,
+    "featured": false,
+    "variants": [
+      { "label": "Color", "options": [
+        { "name": "Teal", "priceAdjust": 0 },
+        { "name": "Wine", "priceAdjust": 0 },
+        { "name": "Mustard", "priceAdjust": 0 }
+      ]}
+    ]
+  },
+  {
+    "id": "ss012",
+    "name": "Pure Pashmina Reversible Shawl",
+    "shortDescription": "Double-faced pure Pashmina — two shawls in one elegant piece.",
+    "description": "The pinnacle of our Pashmina collection: a double-faced shawl with two complementary solid colours woven together at the selvedge. Flip it to suit your mood or your outfit. The pure Pashmina fibre is sourced from Himalayan goats, producing a warmth-to-weight ratio unmatched by any synthetic. A gift that will be remembered.",
+    "price": 17500,
+    "compareAtPrice": 22000,
+    "category": "Pashmina",
+    "images": ["assets/images/ss012-1.jpg", "assets/images/ss012-2.jpg"],
+    "inStock": true,
+    "featured": true,
+    "variants": [
+      { "label": "Color Combination", "options": [
+        { "name": "Ivory + Caramel", "priceAdjust": 0 },
+        { "name": "Grey + Navy", "priceAdjust": 0 },
+        { "name": "Blush + Burgundy", "priceAdjust": 500 }
+      ]}
+    ]
+  }
+]
